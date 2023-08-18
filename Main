@@ -1,0 +1,24 @@
+--// Supported Games: Tha Bronx 2 | Sloks Roleplay | Zombie Uprising [Binnekort FiveR]
+
+-- Sloks
+local placeId = game.PlaceId
+
+if placeId == 10275665167 then
+    loadstring(game:HttpGet('https://scripts.luawl.com/hosted/5835/21243/SloksReapersAdmin.lua'))()
+end
+
+
+-- Tha Bronx 2
+local placeId = game.PlaceId
+
+if placeId == 9874911474 then
+   loadstring(game:HttpGet('https://scripts.luawl.com/hosted/5835/21252/ThaBronxReaperCheats.cc.lua'))()
+end
+
+
+-- Zombie Uprising
+local placeId = game.PlaceId
+
+if placeId == 4972091010 then
+  loadstring(game:HttpGet('https://scripts.luawl.com/hosted/5835/21249/zombieuprisingfree.lua'))()
+end
